@@ -11,6 +11,7 @@ Add new configuration to device from file groupwise, and then commit changes in 
 In commander Page can execute show command by device name output to same page. Like CLI
 
 
+https://www.linkedin.com/pulse/network-automationconfigure-devices-backup-show-config-muhammad-imran
  
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/awanchakwal/FlaskNornir6July2021)
