@@ -1,4 +1,11 @@
 # FlaskNornir6July2021
+Advantages
+1- CSV Inventory File auto convert to Yaml while Program Run
+2- On inventory Page can see Fact/ARP/Interfaces and Traceroute Details
+3- Configure same group devices from a file having configuration commands
+4- Save show command output to App Directory on Groupbase or Single device Name
+5- Commit Changes after seen Ok
+6- Can run show command on device Like CLI
 pip install requirement.txt
 run .py file
 localhost:5000 in browser 
